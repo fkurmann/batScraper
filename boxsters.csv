@@ -1,0 +1,191 @@
+,Year,Spec,Transmission,Price,Date,Status
+0,2005,Base,Manual,"$17,000",8/22/22,Sold
+1,2005,S,Manual,"$29,750",8/18/22,Sold
+2,2009,S,Automatic,"$29,500",8/12/22,Sold
+3,2007,S,Manual,"$35,000",8/11/22,Sold
+4,2007,S,Manual,"$30,750",7/21/22,Sold
+5,2006,S,Manual,"$33,013",7/14/22,Reserve Not Met
+6,2006,Base,Manual,"$23,250",7/13/22,Sold
+7,2006,S,Manual,"$31,250",7/9/22,Sold
+8,2005,Base,Manual,"$25,500",7/6/22,Reserve Not Met
+9,2005,Base,Automatic,"$21,250",7/5/22,Sold
+10,2011,Base,Manual,"$30,289",6/18/22,Sold
+11,2006,Base,Manual,"$30,000",6/14/22,Sold
+12,2011,Spyder,Manual,"$71,200",6/10/22,Sold
+13,2006,S,Manual,"$32,000",6/7/22,Reserve Not Met
+14,2005,S,Automatic,"$27,750",6/3/22,Sold
+15,2012,S,Manual,"$45,000",6/1/22,Sold
+16,2011,Spyder,Manual,"$69,000",5/25/22,Sold
+17,2006,S,Manual,"$28,250",5/24/22,Sold
+18,2008,S,Automatic,"$27,000",5/21/22,Sold
+19,2005,S,Manual,"$32,750",5/17/22,Reserve Not Met
+20,2008,S,Automatic,"$41,750",5/14/22,Sold
+21,2005,Base,Manual,"$18,000",5/10/22,Sold
+22,2008,Base,Manual,"$30,000",5/6/22,Reserve Not Met
+23,2008,S,Manual,"$29,987",5/4/22,Reserve Not Met
+24,2011,Spyder,Automatic,"$73,000",5/3/22,Reserve Not Met
+25,2006,Base,Manual,"$19,300",4/27/22,Sold
+26,2008,Base,Manual,"$27,000",4/20/22,Sold
+27,2006,S,Manual,"$40,750",4/17/22,Sold
+28,2008,S,Manual,"$27,250",4/11/22,Sold
+29,2008,S,Automatic,"$34,000",4/10/22,Sold
+30,2008,S,Manual,"$60,000",4/7/22,Sold
+31,2005,S,Manual,"$24,500",4/7/22,Sold
+32,2012,Spyder,Automatic,"$80,000",4/6/22,Reserve Not Met
+33,2009,S,Manual,"$40,000",4/1/22,Sold
+34,2005,Base,Manual,"$17,987",3/31/22,Reserve Not Met
+35,2008,S,Manual,"$55,000",3/24/22,Sold
+36,2011,Spyder,Manual,"$102,000",3/14/22,Sold
+37,2006,S,Manual,"$30,500",3/13/22,Sold
+38,2008,S,Manual,"$45,000",3/12/22,Sold
+39,2008,Base,Manual,"$25,000",3/7/22,Sold
+40,2008,S,Manual,"$42,750",3/5/22,Sold
+41,2005,S,Manual,"$29,064",2/25/22,Sold
+42,2011,Spyder,Automatic,"$62,000",2/23/22,Sold
+43,2006,S,Manual,"$30,250",2/15/22,Reserve Not Met
+44,2005,S,Manual,"$11,400",2/13/22,Sold
+45,2010,S,Manual,"$25,700",2/9/22,Sold
+46,2006,S,Manual,"$45,000",2/8/22,Sold
+47,2008,Base,Manual,"$25,000",2/6/22,Sold
+48,2008,S,Automatic,"$27,000",1/21/22,Sold
+49,2007,S,Manual,"$28,500",1/13/22,Sold
+50,2006,S,Manual,"$31,000",12/21/21,Sold
+51,2008,S,Automatic,"$44,250",12/17/21,Sold
+52,2007,S,Manual,"$27,250",12/12/21,Sold
+53,2007,Base,Manual,"$27,250",12/9/21,Sold
+54,2007,Base,Manual,"$22,750",12/1/21,Sold
+55,2005,Base,Manual,"$20,500",11/29/21,Reserve Not Met
+56,2006,S,Manual,"$38,750",11/16/21,Sold
+57,2011,Spyder,Automatic,"$70,000",11/15/21,Sold
+58,2006,Base,Manual,"$19,500",11/11/21,Sold
+59,2009,S,Manual,"$33,250",11/8/21,Sold
+60,2005,S,Manual,"$18,750",11/7/21,Sold
+61,2005,S,Manual,"$25,837",10/31/21,Sold
+62,2005,Base,Manual,"$23,500",10/28/21,Sold
+63,2007,S,Manual,"$29,250",10/16/21,Sold
+64,2011,Spyder,Manual,"$73,000",10/7/21,Sold
+65,2012,S,Manual,"$40,255",10/5/21,Sold
+66,2007,S,Manual,"$30,750",9/30/21,Sold
+67,2011,Spyder,Manual,"$111,111",9/30/21,Sold
+68,2007,S,Manual,"$30,000",9/8/21,Sold
+69,2006,S,Manual,"$35,250",9/7/21,Sold
+70,2006,S,Manual,"$41,987",9/1/21,Sold
+71,2005,S,Manual,"$38,000",8/31/21,Sold
+72,2011,S,Automatic,"$35,600",8/31/21,Sold
+73,2008,S,Automatic,"$36,250",8/26/21,Sold
+74,2005,Base,Manual,"$20,249",8/16/21,Sold
+75,2007,Base,Manual,"$25,000",8/8/21,Sold
+76,2012,S,Manual,"$39,000",8/2/21,Sold
+77,2009,Base,Manual,"$26,250",7/29/21,Sold
+78,2008,S,Manual,"$46,501",7/28/21,Sold
+79,2011,Spyder,Automatic,"$53,500",7/25/21,Sold
+80,2005,Base,Manual,"$25,000",7/22/21,Sold
+81,2007,S,Manual,"$35,500",7/20/21,Sold
+82,2005,Base,Manual,"$17,675",7/6/21,Sold
+83,2008,S,Automatic,"$26,300",7/1/21,Reserve Not Met
+84,2005,Base,Manual,"$24,500",6/27/21,Sold
+85,2008,S,Automatic,"$42,000",6/18/21,Sold
+86,2011,Spyder,Manual,"$65,000",6/17/21,Sold
+87,2009,Base,Manual,"$36,750",6/15/21,Sold
+88,2006,S,Manual,"$28,250",6/15/21,Sold
+89,2010,S,Manual,"$31,987",6/11/21,Sold
+90,2008,S,Automatic,"$43,000",6/4/21,Sold
+91,2007,Base,Manual,"$28,500",6/3/21,Sold
+92,2006,S,Manual,"$42,000",5/28/21,Sold
+93,2006,Base,Manual,"$22,750",5/27/21,Reserve Not Met
+94,2007,S,Manual,"$40,000",5/19/21,Sold
+95,2007,S,Manual,"$26,000",5/12/21,Sold
+96,2009,S,Automatic,"$30,000",5/11/21,Sold
+97,2011,Spyder,Automatic,"$71,500",5/6/21,Sold
+98,2005,S,Manual,"$22,300",4/26/21,Sold
+99,2008,Base,Manual,"$24,000",4/21/21,Sold
+100,2008,S,Automatic,"$39,500",3/18/21,Sold
+101,2011,Spyder,Automatic,"$72,000",3/8/21,Sold
+102,2009,S,Manual,"$29,310",3/1/21,Sold
+103,2011,Spyder,Automatic,"$55,000",2/16/21,Sold
+104,2011,Spyder,Automatic,"$47,750",2/1/21,Sold
+105,2005,Base,Manual,"$10,000",12/30/20,Sold
+106,2011,Spyder,Automatic,"$44,000",11/23/20,Reserve Not Met
+107,2011,Spyder,Manual,"$46,000",11/11/20,Reserve Not Met
+108,2012,S,Manual,"$31,750",11/4/20,Reserve Not Met
+109,2011,Spyder,Automatic,"$46,000",11/4/20,Sold
+110,2011,Spyder,Manual,"$47,600",10/9/20,Reserve Not Met
+111,2008,S,Manual,"$28,500",9/29/20,Sold
+112,2011,Spyder,Manual,"$62,987",9/23/20,Sold
+113,2006,S,Manual,"$16,250",9/21/20,Sold
+114,2008,S,Automatic,"$31,500",9/11/20,Sold
+115,2006,S,Manual,"$21,750",7/24/20,Sold
+116,2011,Spyder,Automatic,"$66,500",7/22/20,Sold
+117,2008,S,Manual,"$28,000",7/10/20,Sold
+118,2007,Base,Manual,"$26,750",7/3/20,Sold
+119,2008,S,Automatic,"$39,237",7/1/20,Sold
+120,2005,S,Manual,"$19,250",6/23/20,Sold
+121,2005,S,Manual,"$16,250",6/5/20,Sold
+122,2008,S,Manual,"$27,500",6/4/20,Sold
+123,2011,Spyder,Automatic,"$63,500",5/8/20,Sold
+124,2008,S,Manual,"$22,300",5/4/20,Sold
+125,2005,S,Manual,"$18,757",4/2/20,Sold
+126,2008,S,Automatic,"$32,000",4/1/20,Sold
+127,2011,Spyder,Manual,"$47,500",3/27/20,Sold
+128,2005,Base,Manual,"$17,775",3/25/20,Sold
+129,2007,S,Automatic,"$50,000",3/19/20,Sold
+130,2010,Base,Manual,"$21,380",3/12/20,Sold
+131,2008,S,Automatic,"$29,500",3/4/20,Sold
+132,2008,S,Automatic,"$30,000",2/24/20,Sold
+133,2011,Spyder,Manual,"$43,750",2/19/20,Reserve Not Met
+134,2008,S,Automatic,"$30,167",2/12/20,Sold
+135,2011,Spyder,Automatic,"$43,250",2/11/20,Reserve Not Met
+136,2011,Spyder,Automatic,"$51,500",12/24/19,Sold
+137,2011,Spyder,Manual,"$45,500",12/10/19,Reserve Not Met
+138,2006,S,Automatic,"$19,000",11/29/19,Sold
+139,2008,S,Automatic,"$35,500",11/29/19,Reserve Not Met
+140,2008,S,Automatic,"$29,000",11/21/19,Reserve Not Met
+141,2011,Spyder,Automatic,"$39,500",10/14/19,Sold
+142,2005,S,Manual,"$24,500",9/12/19,Sold
+143,2005,S,Automatic,"$16,500",8/29/19,Sold
+144,2005,S,Manual,"$16,200",8/20/19,Sold
+145,2005,S,Manual,"$21,000",8/12/19,Sold
+146,2006,Base,Manual,"$14,250",7/23/19,Sold
+147,2006,S,Manual,"$20,500",7/19/19,Sold
+148,2011,Spyder,Automatic,"$44,391",7/17/19,Reserve Not Met
+149,2011,Base,Automatic,"$16,987",7/9/19,Sold
+150,2008,S,Automatic,"$32,000",7/1/19,Sold
+151,2011,Spyder,Manual,"$55,750",6/27/19,Sold
+152,2010,Base,Manual,"$30,750",6/12/19,Sold
+153,2006,Base,Manual,"$13,750",6/5/19,Reserve Not Met
+154,2011,Spyder,Manual,"$53,000",5/27/19,Sold
+155,2011,Spyder,Manual,"$56,000",5/20/19,Sold
+156,2011,Spyder,Manual,"$49,750",4/10/19,Sold
+157,2005,Base,Manual,"$23,750",4/9/19,Reserve Not Met
+158,2011,Spyder,Manual,"$59,000",3/28/19,Sold
+159,2012,Spyder,Automatic,"$56,000",3/19/19,Sold
+160,2008,S,Automatic,"$32,060",3/13/19,Reserve Not Met
+161,2011,Spyder,Automatic,"$64,500",3/7/19,Sold
+162,2011,Spyder,Automatic,"$47,000",2/26/19,Sold
+163,2005,Base,Manual,"$11,020",2/1/19,Sold
+164,2005,S,Automatic,"$20,500",1/30/19,Reserve Not Met
+165,2008,S,Automatic,"$27,000",1/15/19,Sold
+166,2008,S,Manual,"$29,150",12/26/18,Reserve Not Met
+167,2008,S,Automatic,"$32,750",12/18/18,Sold
+168,2012,Spyder,Automatic,"$45,000",9/14/18,Sold
+169,2006,Base,Manual,"$27,000",8/21/18,Sold
+170,2012,Spyder,Manual,"$57,987",7/27/18,Sold
+171,2012,Spyder,Manual,"$64,000",7/11/18,Sold
+172,2005,S,Manual,"$23,250",6/29/18,Sold
+173,2008,S,Automatic,"$32,700",6/25/18,Sold
+174,2007,S,Manual,"$23,800",6/6/18,Sold
+175,2012,Base,Manual,"$27,500",5/9/18,Sold
+176,2011,Spyder,Manual,"$58,000",4/13/18,Sold
+177,2011,Spyder,Automatic,"$38,900",2/7/18,Reserve Not Met
+178,2011,Spyder,Automatic,"$52,000",1/29/18,Sold
+179,2011,Spyder,Automatic,"$58,987",12/18/17,Sold
+180,2005,Base,Manual,"$11,987",10/30/17,Sold
+181,2005,S,Manual,"$16,001",10/3/17,Sold
+182,2008,S,Automatic,"$30,750",9/28/17,Sold
+183,2008,Base,Manual,"$13,900",9/8/17,Sold
+184,2011,Spyder,Manual,"$50,987",9/7/17,Sold
+185,2005,Base,Manual,"$13,500",9/1/17,Sold
+186,2006,S,Manual,"$26,000",8/18/17,Sold
+187,2012,Spyder,Manual,"$62,000",8/15/17,Sold
+188,2011,Spyder,Manual,"$60,500",8/8/17,Sold
+189,2011,Spyder,Manual,"$62,000",7/18/17,Sold
